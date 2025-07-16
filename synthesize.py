@@ -76,7 +76,7 @@ if __name__ == "__main__":
     input_json_file = 'RealBusinnessCardNer.json'
     
     # --- ADJUST SYNTHESIZE NUM HERE ---
-    synthesize_num = 10_000 # Generate 3 different synthetic datasets
+    synthesize_num = 10 # Generate 3 different synthetic datasets
     # --- END ADJUSTMENT ---
 
     output_dir = 'synthetic_datasets' # New directory for outputs
